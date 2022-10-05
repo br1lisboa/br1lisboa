@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on **CODERHOUSE!**
 
 - 📫 How to reach me **brlisbo@gmail.com**
+<br/>
 
 <h3 align="center">Languages and Tools:</h3>
 
